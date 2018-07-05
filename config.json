@@ -1,0 +1,11 @@
+{
+    "twitterKey": {
+        "consumer_key": "8Iy4wqdi99Zte6xwmFg0Z7ub6",
+        "consumer_secret": "owskEyssBY0u4v47gHa3WZrV0eY66XorNkrJ9FKYV0WvJOJSm7",
+        "access_token": "1715166764-EiOl7SStz5Vcipj6Xz0mDvleit0GWKBBiaKkF2N",
+        "access_token_secret": "d7vcrwwk9TeibLp1BIQUIWSWW9uGrIABO99GLtw7ky7Cz"
+    },
+    "userList":[
+        "CNN", "OpenAI", "GoogleAI", "NvidiaAI", "PartnershipAI"
+    ]
+}
