@@ -5,6 +5,8 @@ from tweetInfo import getTweetsUser
 from datetime import datetime
 
 # 主函数
+
+
 def main():
     # 用户配置初始化
     apiConfig = init()
@@ -25,4 +27,4 @@ if __name__ == '__main__':
     main()
     endTime = datetime.now()
     print("---------------")
-    print("程序执行完毕，共耗时%s"%(endTime-starTime))
+    print("程序执行完毕，共耗时%s" % (endTime-starTime))

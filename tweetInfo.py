@@ -3,7 +3,7 @@ from downImgVideo import downloadImg, downloadVideo, downloadHead, mkdirThreeFil
 from datetime import datetime
 import re
 import asyncio
-
+from loggingModule import logger
 
 def getTweetsUser(api, username, twitterPip):
     try:
@@ -42,10 +42,6 @@ def getTweetsUser(api, username, twitterPip):
             twitterPip.update_userInfo(userInfoDict, screenName)
         elif screenNameList == None or len(screenNameList) == 0 or (screenNameList != None and screenName not in idList):
             twitterPip.insert_userInfo(userInfoDict)
-        # if idList != None and str(twitterId) in idList:
-        #     twitterPip.update_userInfo(userInfoDict, twitterId)
-        # elif idList == None or len(idList) == 0 or (idList != None and str(twitterId) not in idList):
-        #     twitterPip.insert_userInfo(userInfoDict)
         
         # 获取当前账户下的推文
         accountId = twitterPip.get_accountId(userInfo.status.id)
@@ -88,11 +84,12 @@ def getTweetsUser(api, username, twitterPip):
         finally:
             endTime = datetime.now()
             runningTime = endTime-startTime
-            print("花费时间为：%s" % runningTime)
-        print("账户：%s,一共更新: %d 条记录" % (accountName, flag))
+            # print("花费时间为：%s" % runningTime)
+        # print("账户：%s,一共更新: %d 条记录" % (accountName, flag))
+        logger.info("花费时间为：%s账户：%s,一共更新: %d 条记录" % (runningTime, accountName, flag))
     except Exception as e:
         print(e)
-        print("错误信息")
+        logger.info(e)
 
 # 获取视频照片
 
