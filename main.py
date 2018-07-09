@@ -16,7 +16,7 @@ def main():
 
     # 获取Tweeter账号信息
     for accountName in apiConfig[1]:
-        getTweetsUser(apiConfig[0], accountName, twitterPip)
+        getTweetsUser(apiConfig[0], accountName.strip(), twitterPip)
     twitterPip.close()
 
 

@@ -1,0 +1,263 @@
+2018-07-09 13:48:52,531 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:15.305027账户：Evan Kirstel,一共更新: 20 条记录
+2018-07-09 13:50:06,965 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:07.232018账户：OpenAI,一共更新: 20 条记录
+2018-07-09 13:50:09,366 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.048973账户：Google AI,一共更新: 20 条记录
+2018-07-09 13:50:12,047 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.063964账户：NVIDIA AI,一共更新: 20 条记录
+2018-07-09 13:50:15,626 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.061961账户：Partnership on AI,一共更新: 20 条记录
+2018-07-09 13:50:19,829 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.754269账户：Intel AI,一共更新: 20 条记录
+2018-07-09 13:50:22,425 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.052968账户：Andrew Ng,一共更新: 20 条记录
+2018-07-09 13:50:36,665 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:10.651589账户：Tamara McCleary,一共更新: 20 条记录
+2018-07-09 13:50:40,114 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.046972账户：AI,一共更新: 20 条记录
+2018-07-09 13:50:45,008 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.051988账户：Bill McCabe/ IOT Recruiter,一共更新: 20 条记录
+2018-07-09 13:50:48,857 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.054970账户：Kirk Borne,一共更新: 20 条记录
+2018-07-09 13:50:52,127 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.923499账户：Bernard Marr,一共更新: 20 条记录
+2018-07-09 13:50:53,344 - INFO - saveData.py[:36] - 插入 DavidBrin 账户信息失败 (1366, "Incorrect string value: '\\xF0\\x9F\\x9B\\xB0' for column 'accountName' at row 1")
+2018-07-09 13:50:53,345 - INFO - saveData.py[:116] - 执行sql语句失败'NoneType' object is not subscriptable:select accountId from account where twitterId =1016144727278620672
+2018-07-09 13:50:53,345 - INFO - saveData.py[:131] - 执行sql语句失败(1054, "Unknown column 'error' in 'where clause'")
+2018-07-09 13:50:54,569 - INFO - saveData.py[:55] - 插入 1015033778287271936 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,571 - INFO - saveData.py[:55] - 插入 1015045341589061633 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,573 - INFO - saveData.py[:55] - 插入 1015290043475247104 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,574 - INFO - saveData.py[:55] - 插入 1015310750481465345 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,584 - INFO - saveData.py[:55] - 插入 1015325877092040704 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,585 - INFO - saveData.py[:55] - 插入 1015360456439967744 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,587 - INFO - saveData.py[:55] - 插入 1015388412105248768 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,588 - INFO - saveData.py[:55] - 插入 1015413775531323392 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,590 - INFO - saveData.py[:55] - 插入 1015436046455095297 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,591 - INFO - saveData.py[:55] - 插入 1015617860876431360 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,592 - INFO - saveData.py[:55] - 插入 1015648685667991552 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,593 - INFO - saveData.py[:55] - 插入 1015664858279247873 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,594 - INFO - saveData.py[:55] - 插入 1015719271702228992 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:54,595 - INFO - saveData.py[:55] - 插入 1015727659400065024 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:55,736 - INFO - saveData.py[:55] - 插入 1015742380824117248 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:55,739 - INFO - saveData.py[:55] - 插入 1015787456711364608 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:56,835 - INFO - saveData.py[:55] - 插入 1016006866600484864 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:56,836 - INFO - saveData.py[:55] - 插入 1016079016401309696 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:56,837 - INFO - saveData.py[:55] - 插入 1016107842128842752 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:56,837 - INFO - saveData.py[:55] - 插入 1016144727278620672 推文信息失败 (1366, "Incorrect integer value: 'error' for column 'accountId' at row 1")
+2018-07-09 13:50:56,838 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:02.270695账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-09 13:51:01,796 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.877497账户：Pedro Domingos,一共更新: 20 条记录
+2018-07-09 13:51:05,877 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.127485账户：Fei-Fei Li,一共更新: 20 条记录
+2018-07-09 13:57:07,859 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:09.751894账户：OpenAI,一共更新: 20 条记录
+2018-07-09 13:57:11,796 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.055968账户：Google AI,一共更新: 20 条记录
+2018-07-09 13:57:15,141 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.050995账户：NVIDIA AI,一共更新: 20 条记录
+2018-07-09 13:57:22,834 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.049957账户：Partnership on AI,一共更新: 20 条记录
+2018-07-09 13:57:27,113 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.269409账户：Intel AI,一共更新: 20 条记录
+2018-07-09 13:57:29,676 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.048973账户：Andrew Ng,一共更新: 20 条记录
+2018-07-09 13:57:41,100 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:08.991871账户：Tamara McCleary,一共更新: 20 条记录
+2018-07-09 13:57:43,638 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.061963账户：AI,一共更新: 20 条记录
+2018-07-09 13:57:46,777 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.045974账户：Bill McCabe/ IOT Recruiter,一共更新: 20 条记录
+2018-07-09 13:57:49,251 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.060966账户：Kirk Borne,一共更新: 20 条记录
+2018-07-09 13:57:53,412 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.799771账户：Bernard Marr,一共更新: 20 条记录
+2018-07-09 13:57:58,735 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:02.266281账户：David Brin 🛰,一共更新: 20 条记录
+2018-07-09 13:58:03,877 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.801615账户：Pedro Domingos,一共更新: 20 条记录
+2018-07-09 13:58:07,626 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.042404账户：Fei-Fei Li,一共更新: 20 条记录
+2018-07-09 13:58:11,213 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.845508账户：Brian Ahier,一共更新: 20 条记录
+2018-07-09 13:58:13,903 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.081953账户：Andreas Staub,一共更新: 20 条记录
+2018-07-09 13:58:22,171 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:05.537168账户：KDnuggets,一共更新: 20 条记录
+2018-07-09 13:58:29,303 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:04.237875账户：sandy carter,一共更新: 20 条记录
+2018-07-09 13:58:47,049 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:15.217703账户：Evan Kirstel,一共更新: 20 条记录
+2018-07-09 13:59:44,201 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:54.052178账户：Vala Afshar,一共更新: 20 条记录
+2018-07-09 13:59:46,779 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.067929账户：Spiros Margaris,一共更新: 20 条记录
+2018-07-09 13:59:50,309 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.078924账户：John Hagel,一共更新: 20 条记录
+2018-07-09 14:00:02,823 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:10.047787账户：Mike Quindazzi ✨,一共更新: 20 条记录
+2018-07-09 14:00:06,454 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.017417账户：dez blanchfield,一共更新: 20 条记录
+2018-07-09 14:00:14,737 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:04.665758账户：Bob E. Hayes,一共更新: 20 条记录
+2018-07-09 14:00:20,409 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.223318账户：Jeremiah Owyang,一共更新: 20 条记录
+2018-07-09 14:00:22,947 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.110936账户：Jack Clark,一共更新: 20 条记录
+2018-07-09 14:00:25,756 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.069955账户：Jim Marous,一共更新: 20 条记录
+2018-07-09 14:00:30,050 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.047955账户：Ronald van Loon,一共更新: 20 条记录
+2018-07-09 14:00:35,783 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:03.248294账户：Maria Johnsen,一共更新: 20 条记录
+2018-07-09 14:00:39,736 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.074956账户：ipfconline,一共更新: 20 条记录
+2018-07-09 14:01:27,627 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:44.191182账户：Marc Benioff,一共更新: 20 条记录
+2018-07-09 14:01:30,319 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.047954账户：Gary Marcus,一共更新: 20 条记录
+2018-07-09 14:01:35,514 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:02.469813账户：Eric Horvitz,一共更新: 20 条记录
+2018-07-09 14:01:39,322 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.044974账户：Dr. GP Pulipaka,一共更新: 20 条记录
+2018-07-09 14:01:44,875 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:03.024572账户：Nathan Benaich,一共更新: 20 条记录
+2018-07-09 14:01:47,751 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.107930账户：Joanna J Bryson,一共更新: 20 条记录
+2018-07-09 14:01:50,522 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.089964账户：Alex J. Champandard,一共更新: 20 条记录
+2018-07-09 14:01:53,327 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.067962账户：Soumith Chintala,一共更新: 20 条记录
+2018-07-09 14:01:55,993 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.052969账户：Adam Coates,一共更新: 20 条记录
+2018-07-09 14:02:20,011 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:20.824073账户：CyberCode Twins @ 🇵🇷,一共更新: 20 条记录
+2018-07-09 14:02:26,834 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:02.242717账户：Jana Eggers,一共更新: 20 条记录
+2018-07-09 14:02:30,088 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.113933账户：Oren Etzioni,一共更新: 20 条记录
+2018-07-09 14:02:34,009 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.065959账户：Martin Ford,一共更新: 20 条记录
+2018-07-09 14:02:41,323 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:04.350508账户：Adam Geitgey,一共更新: 20 条记录
+2018-07-09 14:02:44,366 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.045974账户：John C. Havens,一共更新: 20 条记录
+2018-07-09 14:02:45,521 - WARNING - tweetInfo.py[:92] - [{'code': 50, 'message': 'User not found.'}]
+2018-07-09 14:02:49,707 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:01.312248账户：David Kenny,一共更新: 20 条记录
+2018-07-09 14:02:57,381 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:03.499296账户：Tessa Lau,一共更新: 20 条记录
+2018-07-09 14:03:00,372 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.049972账户：Dr. Angelica Lim,一共更新: 20 条记录
+2018-07-09 14:03:03,989 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00.048971账户：Satya Mallick,一共更新: 20 条记录
+2018-07-09 14:03:14,065 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:06.882759账户：Chris Messina,一共更新: 20 条记录
+2018-07-09 14:04:08,397 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:50.662427账户：Elon Musk,一共更新: 20 条记录
+2018-07-09 14:04:15,018 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:03.889964账户：Andy,一共更新: 20 条记录
+2018-07-09 15:14:04,080 - INFO - saveData.py[:81] - 更新 OpenAI 账户信息失败,'bannerUrl'
+2018-07-09 15:14:05,178 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-09 15:14:06,405 - INFO - saveData.py[:81] - 更新 GoogleAI 账户信息失败,'bannerUrl'
+2018-07-09 15:14:07,188 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-09 15:16:30,104 - INFO - saveData.py[:81] - 更新 OpenAI 账户信息失败,'bannerUrl'
+2018-07-09 15:16:31,109 - INFO - tweetInfo.py[:89] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-09 15:16:33,566 - INFO - saveData.py[:81] - 更新 GoogleAI 账户信息失败,'bannerUrl'
+2018-07-09 15:27:33,946 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-09 15:28:04,903 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-09 15:28:09,610 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.001000账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-09 15:28:14,552 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-09 15:28:19,122 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-09 15:28:23,672 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-09 15:28:27,974 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Tamara McCleary,一共更新: 0 条记录
+2018-07-09 15:28:32,290 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：AI,一共更新: 0 条记录
+2018-07-09 15:28:36,389 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.012991账户：Bill McCabe/ IOT Recruiter,一共更新: 3 条记录
+2018-07-09 15:28:41,845 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Kirk Borne,一共更新: 0 条记录
+2018-07-09 15:28:47,088 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Bernard Marr,一共更新: 0 条记录
+2018-07-09 15:28:50,736 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-09 15:28:55,224 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-09 15:29:00,413 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-09 15:29:04,535 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Brian Ahier,一共更新: 0 条记录
+2018-07-09 15:29:05,489 - WARNING - tweetInfo.py[:93] - andi_staub 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:29:10,314 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:01.007598账户：KDnuggets,一共更新: 1 条记录
+2018-07-09 15:29:13,906 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：sandy carter,一共更新: 0 条记录
+2018-07-09 15:29:20,661 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:03.393276账户：Evan Kirstel,一共更新: 7 条记录
+2018-07-09 15:29:24,765 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Vala Afshar,一共更新: 0 条记录
+2018-07-09 15:29:30,897 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.092948账户：Spiros Margaris,一共更新: 17 条记录
+2018-07-09 15:29:31,824 - WARNING - tweetInfo.py[:93] - jhagel 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:29:36,066 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.010996账户：Mike Quindazzi ✨,一共更新: 2 条记录
+2018-07-09 15:29:41,083 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.024985账户：dez blanchfield,一共更新: 7 条记录
+2018-07-09 15:29:48,727 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Bob E. Hayes,一共更新: 0 条记录
+2018-07-09 15:29:51,892 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jeremiah Owyang,一共更新: 0 条记录
+2018-07-09 15:29:55,230 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jack Clark,一共更新: 0 条记录
+2018-07-09 15:29:58,892 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jim Marous,一共更新: 0 条记录
+2018-07-09 15:30:02,612 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.007977账户：Ronald van Loon,一共更新: 2 条记录
+2018-07-09 15:30:07,171 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.978853账户：Maria Johnsen,一共更新: 1 条记录
+2018-07-09 15:30:10,967 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.029987账户：ipfconline,一共更新: 7 条记录
+2018-07-09 15:30:14,493 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Marc Benioff,一共更新: 0 条记录
+2018-07-09 15:30:15,369 - WARNING - tweetInfo.py[:93] - GaryMarcus 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:30:18,492 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Eric Horvitz,一共更新: 0 条记录
+2018-07-09 15:30:22,028 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Dr. GP Pulipaka,一共更新: 0 条记录
+2018-07-09 15:30:26,967 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.005998账户：Nathan Benaich,一共更新: 1 条记录
+2018-07-09 15:30:30,282 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Joanna J Bryson,一共更新: 0 条记录
+2018-07-09 15:30:35,369 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Alex J. Champandard,一共更新: 0 条记录
+2018-07-09 15:30:36,279 - WARNING - tweetInfo.py[:93] - soumithchintala 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:30:37,261 - WARNING - tweetInfo.py[:93] - adampaulcoates 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:30:44,097 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：CyberCode Twins @ 🇵🇷,一共更新: 0 条记录
+2018-07-09 15:30:48,974 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jana Eggers,一共更新: 0 条记录
+2018-07-09 15:30:52,640 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Oren Etzioni,一共更新: 0 条记录
+2018-07-09 15:30:56,421 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Martin Ford,一共更新: 0 条记录
+2018-07-09 15:31:00,342 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Adam Geitgey,一共更新: 0 条记录
+2018-07-09 15:31:03,953 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：John C. Havens,一共更新: 0 条记录
+2018-07-09 15:31:10,786 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：David Kenny,一共更新: 0 条记录
+2018-07-09 15:31:14,129 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Tessa Lau,一共更新: 0 条记录
+2018-07-09 15:31:18,084 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Dr. Angelica Lim,一共更新: 0 条记录
+2018-07-09 15:31:19,033 - WARNING - tweetInfo.py[:93] - LearnOpenCV 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:31:26,388 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.012976账户：Chris Messina,一共更新: 2 条记录
+2018-07-09 15:31:30,074 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-09 15:31:33,919 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.013029账户：Andy,一共更新: 3 条记录
+2018-07-09 15:34:37,700 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-09 15:34:42,178 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-09 15:34:47,762 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-09 15:34:53,486 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-09 15:34:57,101 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-09 15:35:04,778 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-09 15:35:09,177 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Tamara McCleary,一共更新: 0 条记录
+2018-07-09 15:35:13,886 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：AI,一共更新: 0 条记录
+2018-07-09 15:35:18,474 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Bill McCabe/ IOT Recruiter,一共更新: 0 条记录
+2018-07-09 15:35:23,063 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Kirk Borne,一共更新: 0 条记录
+2018-07-09 15:35:27,059 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Bernard Marr,一共更新: 0 条记录
+2018-07-09 15:35:31,307 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-09 15:35:37,411 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-09 15:35:43,969 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-09 15:35:49,810 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Brian Ahier,一共更新: 0 条记录
+2018-07-09 15:35:50,818 - WARNING - tweetInfo.py[:93] - andi_staub 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:35:55,522 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：KDnuggets,一共更新: 0 条记录
+2018-07-09 15:35:59,645 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：sandy carter,一共更新: 0 条记录
+2018-07-09 15:36:03,228 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Evan Kirstel,一共更新: 0 条记录
+2018-07-09 15:36:07,275 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Vala Afshar,一共更新: 0 条记录
+2018-07-09 15:36:11,032 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Spiros Margaris,一共更新: 0 条记录
+2018-07-09 15:36:12,075 - WARNING - tweetInfo.py[:93] - jhagel 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:36:15,270 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Mike Quindazzi ✨,一共更新: 0 条记录
+2018-07-09 15:36:19,791 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：dez blanchfield,一共更新: 0 条记录
+2018-07-09 15:36:24,130 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Bob E. Hayes,一共更新: 0 条记录
+2018-07-09 15:36:27,612 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jeremiah Owyang,一共更新: 0 条记录
+2018-07-09 15:36:33,626 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jack Clark,一共更新: 0 条记录
+2018-07-09 15:36:37,873 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jim Marous,一共更新: 0 条记录
+2018-07-09 15:36:42,509 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Ronald van Loon,一共更新: 0 条记录
+2018-07-09 15:36:46,880 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Maria Johnsen,一共更新: 0 条记录
+2018-07-09 15:36:49,947 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.002998账户：ipfconline,一共更新: 1 条记录
+2018-07-09 15:36:55,377 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00.000973账户：Marc Benioff,一共更新: 0 条记录
+2018-07-09 15:36:56,345 - WARNING - tweetInfo.py[:93] - GaryMarcus 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:37:00,225 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Eric Horvitz,一共更新: 0 条记录
+2018-07-09 15:37:04,309 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Dr. GP Pulipaka,一共更新: 0 条记录
+2018-07-09 15:37:10,948 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Nathan Benaich,一共更新: 0 条记录
+2018-07-09 15:37:14,943 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Joanna J Bryson,一共更新: 0 条记录
+2018-07-09 15:37:20,079 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Alex J. Champandard,一共更新: 0 条记录
+2018-07-09 15:37:21,032 - WARNING - tweetInfo.py[:93] - soumithchintala 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:37:21,956 - WARNING - tweetInfo.py[:93] - adampaulcoates 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:37:26,237 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：CyberCode Twins @ 🇵🇷,一共更新: 0 条记录
+2018-07-09 15:37:30,721 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Jana Eggers,一共更新: 0 条记录
+2018-07-09 15:37:35,028 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Oren Etzioni,一共更新: 0 条记录
+2018-07-09 15:37:38,834 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Martin Ford,一共更新: 0 条记录
+2018-07-09 15:37:43,315 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Adam Geitgey,一共更新: 0 条记录
+2018-07-09 15:37:49,187 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：John C. Havens,一共更新: 0 条记录
+2018-07-09 15:37:53,711 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：David Kenny,一共更新: 0 条记录
+2018-07-09 15:37:59,108 - WARNING - tweetInfo.py[:93] - tessalau Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=tessalau&since_id=999055918040928257&count=200 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-09 15:38:05,325 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Dr. Angelica Lim,一共更新: 0 条记录
+2018-07-09 15:38:06,344 - WARNING - tweetInfo.py[:93] - LearnOpenCV 'User' object has no attribute 'profile_banner_url'
+2018-07-09 15:38:13,571 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Chris Messina,一共更新: 0 条记录
+2018-07-09 15:38:17,762 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-09 15:38:21,455 - INFO - tweetInfo.py[:91] - 花费时间为：0:00:00账户：Andy,一共更新: 0 条记录
+2018-07-09 15:38:45,745 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-09 15:38:49,255 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-09 15:39:09,794 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Soumith Chintala,一共更新: 0 条记录
+2018-07-09 15:39:11,815 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Adam Coates,一共更新: 0 条记录
+2018-07-09 15:40:53,637 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:11.668695账户：OpenAI,一共更新: 20 条记录
+2018-07-09 15:40:58,380 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.086953账户：Google AI,一共更新: 20 条记录
+2018-07-09 15:41:03,530 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.078950账户：NVIDIA AI,一共更新: 20 条记录
+2018-07-09 15:41:07,474 - WARNING - downImgVideo.py[:84] - https://pbs.twimg.com/profile_banners/821766660822626304/1528409701 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/821766660822626304/1528409701 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-09 15:41:10,945 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.066931账户：Partnership on AI,一共更新: 20 条记录
+2018-07-09 15:41:18,996 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.628821账户：Intel AI,一共更新: 20 条记录
+2018-07-09 15:41:24,656 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.061933账户：Andrew Ng,一共更新: 20 条记录
+2018-07-09 15:41:42,933 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:09.628880账户：Tamara McCleary,一共更新: 20 条记录
+2018-07-09 15:41:47,486 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.082946账户：AI,一共更新: 20 条记录
+2018-07-09 15:41:53,602 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.059936账户：Bill McCabe/ IOT Recruiter,一共更新: 20 条记录
+2018-07-09 15:41:57,563 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.064978账户：Kirk Borne,一共更新: 20 条记录
+2018-07-09 15:42:04,073 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.875303账户：Bernard Marr,一共更新: 20 条记录
+2018-07-09 15:42:12,957 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.466924账户：David Brin 🛰,一共更新: 20 条记录
+2018-07-09 15:42:20,601 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.042367账户：Pedro Domingos,一共更新: 20 条记录
+2018-07-09 15:42:27,892 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.322296账户：Fei-Fei Li,一共更新: 20 条记录
+2018-07-09 15:42:36,828 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.175319账户：Brian Ahier,一共更新: 20 条记录
+2018-07-09 15:42:40,414 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.072928账户：Andreas Staub,一共更新: 20 条记录
+2018-07-09 15:42:52,821 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:07.861875账户：KDnuggets,一共更新: 20 条记录
+2018-07-09 15:43:06,499 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:05.642551账户：sandy carter,一共更新: 20 条记录
+2018-07-09 15:43:21,329 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:10.529037账户：Evan Kirstel,一共更新: 20 条记录
+2018-07-09 15:44:59,312 - INFO - tweetInfo.py[:94] - 花费时间为：0:01:33.271707账户：Vala Afshar,一共更新: 20 条记录
+2018-07-09 15:45:08,808 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.100942账户：Spiros Margaris,一共更新: 20 条记录
+2018-07-09 15:45:12,650 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.047972账户：John Hagel,一共更新: 20 条记录
+2018-07-09 15:45:30,353 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:12.265162账户：Mike Quindazzi ✨,一共更新: 20 条记录
+2018-07-09 15:45:36,238 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.995649账户：dez blanchfield,一共更新: 20 条记录
+2018-07-09 15:45:48,467 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:07.627098账户：Bob E. Hayes,一共更新: 20 条记录
+2018-07-09 15:45:53,593 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.618176账户：Jeremiah Owyang,一共更新: 20 条记录
+2018-07-09 15:45:57,673 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.069960账户：Jack Clark,一共更新: 20 条记录
+2018-07-09 15:46:02,142 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.107909账户：Jim Marous,一共更新: 20 条记录
+2018-07-09 15:46:05,909 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.072942账户：Ronald van Loon,一共更新: 20 条记录
+2018-07-09 15:46:14,624 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:04.640399账户：Maria Johnsen,一共更新: 20 条记录
+2018-07-09 15:46:18,501 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.069945账户：ipfconline,一共更新: 20 条记录
+2018-07-09 15:46:49,343 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:26.382632账户：Marc Benioff,一共更新: 20 条记录
+2018-07-09 15:46:53,048 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.075954账户：Gary Marcus,一共更新: 20 条记录
+2018-07-09 15:47:00,578 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.625058账户：Eric Horvitz,一共更新: 20 条记录
+2018-07-09 15:47:07,454 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.067960账户：Dr. GP Pulipaka,一共更新: 20 条记录
+2018-07-09 15:47:14,226 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.746701账户：Nathan Benaich,一共更新: 20 条记录
+2018-07-09 15:47:19,138 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.060981账户：Joanna J Bryson,一共更新: 20 条记录
+2018-07-09 15:47:23,672 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.075950账户：Alex J. Champandard,一共更新: 20 条记录
+2018-07-09 15:47:26,590 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.067958账户：Soumith Chintala,一共更新: 20 条记录
+2018-07-09 15:47:29,478 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.080925账户：Adam Coates,一共更新: 20 条记录
+2018-07-09 15:47:49,337 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:15.557548账户：CyberCode Twins @ 🇵🇷,一共更新: 20 条记录
+2018-07-09 15:47:54,767 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.633317账户：Jana Eggers,一共更新: 20 条记录
+2018-07-09 15:47:59,383 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.095945账户：Oren Etzioni,一共更新: 20 条记录
+2018-07-09 15:48:03,610 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.075972账户：Martin Ford,一共更新: 20 条记录
+2018-07-09 15:48:13,559 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.813819账户：Adam Geitgey,一共更新: 20 条记录
+2018-07-09 15:48:18,141 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.061964账户：John C. Havens,一共更新: 20 条记录
+2018-07-09 15:48:23,152 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.314248账户：David Kenny,一共更新: 20 条记录
+2018-07-09 15:48:31,251 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.622119账户：Tessa Lau,一共更新: 20 条记录
+2018-07-09 15:48:35,685 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.075927账户：Dr. Angelica Lim,一共更新: 20 条记录
+2018-07-09 15:48:39,412 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.072958账户：Satya Mallick,一共更新: 20 条记录
+2018-07-09 15:48:51,356 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:06.878198账户：Chris Messina,一共更新: 20 条记录
+2018-07-09 15:49:36,757 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:41.931238账户：Elon Musk,一共更新: 20 条记录
+2018-07-09 15:49:48,053 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:04.792342账户：Andy,一共更新: 20 条记录

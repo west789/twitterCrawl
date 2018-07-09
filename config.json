@@ -1,4 +1,4 @@
-{
+        {
     "twitterKey": {
         "consumer_key": "8Iy4wqdi99Zte6xwmFg0Z7ub6",
         "consumer_secret": "owskEyssBY0u4v47gHa3WZrV0eY66XorNkrJ9FKYV0WvJOJSm7",
@@ -6,6 +6,16 @@
         "access_token_secret": "d7vcrwwk9TeibLp1BIQUIWSWW9uGrIABO99GLtw7ky7Cz"
     },
     "userList":[
-        "CNN", "OpenAI", "GoogleAI", "NvidiaAI", "PartnershipAI"
+        "OpenAI", "GoogleAI", "NvidiaAI", "PartnershipAI", "IntelAI",
+        "AndrewYNg", "TamaraMcCleary", "DeepLearn007", "IOT_Recruiting", "KirkDBorne",
+        "BernardMarr", "DavidBrin", "pmddomingos", "drfeifei", "ahier",
+        "andi_staub", "kdnuggets", "sandy_carter", "evankirstel", "ValaAfshar",
+        "SpirosMargaris", "jhagel", "MikeQuindazzi", "dez_blanchfield", "bobehayes",
+        "jowyang", "jackclarkSF", "JimMarous", "Ronald_vanLoon", "iMariaJohnsen",
+        "ipfconline1", "Benioff", "GaryMarcus", "erichorvitz", "gp_pulipaka",
+        "NathanBenaich", "j2bryson", "alexjc", "soumithchintala", "adampaulcoates",
+        "cybercodetwins", "jeggers", "etzioni", "MFordFuture", "ageitgey",
+        "johnchavens", "davidwkenny", "tessalau", "petitegeek", "LearnOpenCV",
+        "chrismessina", "elonmusk", "DrAndyPardoe"
     ]
 }

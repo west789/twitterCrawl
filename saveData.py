@@ -1,4 +1,5 @@
 import pymysql
+from loggingModule import logger
 
 class MysqlDB(object):
     def __init__(self):
@@ -7,7 +8,7 @@ class MysqlDB(object):
                 'localhost', 'root', '123', 'twitter', charset='utf8mb4')
             self.cursor = self.conn.cursor()
         except Exception as e:
-            print('连接数据库失败：%s' % str(e))
+            logger.info('连接数据库失败：%s' %str(e))
 
     def close(self):
         self.cursor.close()
@@ -19,7 +20,7 @@ class TwitterPip (MysqlDB):
         sql = """
             INSERT INTO account (accountName, twitterId, screenName, location, description,
                                 url, statusesCount, friendsCount, followersCount, favoritesCount,
-                                accountTime, profileImage) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                                accountTime, profileImage, bannerUrl) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         """
         try:
             self.cursor.execute(sql, (itemDict["accountName"], itemDict["twitterId"],
@@ -27,13 +28,13 @@ class TwitterPip (MysqlDB):
                                       itemDict["description"], itemDict["url"],
                                       itemDict["statusesCount"], itemDict["friendsCount"],
                                       itemDict["followersCount"], itemDict["favoritesCount"],
-                                      itemDict["accountTime"], itemDict["profileImage"]))
+                                      itemDict["accountTime"], itemDict["profileImage"],
+                                      itemDict["bannerUrl"]))
             self.conn.commit()
-            print("执行sql语句成功")
+            print("插入 %s 账户信息成功"%itemDict["screenName"])
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("执行sql语句失败")
+            logger.info("插入 %s 账户信息失败 %s"%(itemDict["screenName"], str(e)))
             return "error"
 
     def insert_tweetInfo(self, itemDict, flag):
@@ -52,9 +53,8 @@ class TwitterPip (MysqlDB):
             return flag
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("插入推文信息失败")
-            return "error"
+            logger.info("插入 %s 推文信息失败 %s"%(itemDict["twitterId"], str(e)))
+            return flag
 
     def update_userInfo(self, itemDict, screenName):
         sql = """
@@ -63,7 +63,8 @@ class TwitterPip (MysqlDB):
                                description=%s, url=%s,
                                statusesCount=%s, friendsCount=%s,
                                followersCount=%s, favoritesCount=%s,
-                               accountTime=%s, profileImage=%s where screenName=%s
+                               accountTime=%s, profileImage=%s,
+                               bannerUrl=%s where screenName=%s
                 """
         try:
             self.cursor.execute(sql, (itemDict["accountName"], itemDict["screenName"],
@@ -71,13 +72,13 @@ class TwitterPip (MysqlDB):
                                       itemDict["description"], itemDict["url"],
                                       itemDict["statusesCount"], itemDict["friendsCount"],
                                       itemDict["followersCount"], itemDict["favoritesCount"],
-                                      itemDict["accountTime"], itemDict["profileImage"], itemDict["screenName"]))
+                                      itemDict["accountTime"], itemDict["profileImage"], 
+                                      itemDict["bannerUrl"], itemDict["screenName"]))
             self.conn.commit()
             print("更新 %s 账户信息成功"%itemDict["screenName"])
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("更新 %s 账户信息失败"%itemDict["screenName"])
+            logger.info("更新 %s 账户信息失败,%s"%(itemDict["screenName"], str(e)))
             return "error"
 
     # 获取twitterId的列表
@@ -91,9 +92,8 @@ class TwitterPip (MysqlDB):
             return idList
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("执行sql语句失败")
-            return "error"
+            logger.info("执行sql语句失败%s:%s"%(str(e), sql))
+            return []
 
     #获取screenName列表
     def get_screenName(self):
@@ -105,9 +105,8 @@ class TwitterPip (MysqlDB):
             return nameList
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("执行sql语句失败")
-            return "error"
+            logger.info("执行sql语句失败%s:%s"%(str(e), sql))
+            return []
     # 获取accountId
     def get_accountId(self, twitterId):
         sql = "select accountId from account where twitterId =%s" % twitterId
@@ -117,9 +116,8 @@ class TwitterPip (MysqlDB):
             return accountId[0]
         except Exception as e:
             self.conn.rollback()
-            print(e)
-            print("执行sql语句失败")
-            return "error"
+            logger.info("执行sql语句失败%s:%s"%(str(e), sql))
+            return ""
 
     # 获取最近插入的Id
     def get_sinceId(self, accountId):
@@ -133,5 +131,5 @@ class TwitterPip (MysqlDB):
                 return None
         except Exception as e:
             self.conn.rollback()
-            print("执行sql语句失败", e)
+            logger.info("执行sql语句失败%s"%str(e))
             return None

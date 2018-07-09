@@ -1,5 +1,5 @@
 import tweepy
-from downImgVideo import downloadImg, downloadVideo, downloadHead, mkdirThreeFiles
+from downImgVideo import downloadImg, downloadVideo, downloadHead, mkdirThreeFiles, downloadBanner
 from datetime import datetime
 import re
 import asyncio
@@ -19,6 +19,10 @@ def getTweetsUser(api, username, twitterPip):
         location = userInfo.location
         description = userInfo.description
         url = userInfo.url
+        if hasattr(userInfo, "profile_banner_url"):
+            bannerUrl = getBannerUrl(userInfo.profile_banner_url)
+        else:
+            bannerUrl = ""
         profileImage = getProfileImg(userInfo.profile_image_url)
         statusesCount = userInfo.statuses_count
         friendsCount = userInfo.friends_count
@@ -31,6 +35,7 @@ def getTweetsUser(api, username, twitterPip):
         userInfoDict["location"] = location
         userInfoDict["description"] = description
         userInfoDict["url"] = url
+        userInfoDict["bannerUrl"] = bannerUrl
         userInfoDict["profileImage"] = profileImage
         userInfoDict["statusesCount"] = statusesCount
         userInfoDict["friendsCount"] = friendsCount
@@ -48,7 +53,7 @@ def getTweetsUser(api, username, twitterPip):
         sinceId = twitterPip.get_sinceId(accountId)
         if sinceId != None:
             public_tweets = api.user_timeline(
-                screenName, since_id=int(sinceId))
+                screenName, since_id=int(sinceId), count=200)
         else:
             public_tweets = api.user_timeline(screenName, count=20)
         try:
@@ -88,8 +93,7 @@ def getTweetsUser(api, username, twitterPip):
         # print("账户：%s,一共更新: %d 条记录" % (accountName, flag))
         logger.info("花费时间为：%s账户：%s,一共更新: %d 条记录" % (runningTime, accountName, flag))
     except Exception as e:
-        print(e)
-        logger.info(e)
+        logger.warning("%s %s"%(username, str(e)))
 
 # 获取视频照片
 
@@ -115,3 +119,7 @@ def get_imgvideoUrl(tweet):
 
 def getProfileImg(profileImg):
     return downloadHead(profileImg)
+
+#获取背景图像
+def getBannerUrl(bannerUrl):
+    return downloadBanner(bannerUrl)
