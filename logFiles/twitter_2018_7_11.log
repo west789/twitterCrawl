@@ -1,0 +1,121 @@
+2018-07-11 14:24:18,838 - WARNING - downImgVideo.py[:84] - https://pbs.twimg.com/profile_banners/4398626122/1519672659 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/4398626122/1519672659 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-11 14:24:20,414 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-11 14:24:59,787 - WARNING - tweetInfo.py[:96] - GoogleAI Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=GoogleAI&since_id=1016388448507265025&count=200 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-11 14:25:13,085 - WARNING - tweetInfo.py[:96] - NvidiaAI Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=NvidiaAI&since_id=1016552016523358208&count=200 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-11 15:15:18,875 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-11 15:15:22,730 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.004999账户：Google AI,一共更新: 1 条记录
+2018-07-11 15:15:27,195 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.020989账户：NVIDIA AI,一共更新: 4 条记录
+2018-07-11 15:15:32,310 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-11 15:15:36,555 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.031653账户：Intel AI,一共更新: 10 条记录
+2018-07-11 15:15:40,695 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-11 15:15:54,347 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:07.283324账户：Tamara McCleary,一共更新: 54 条记录
+2018-07-11 15:15:58,605 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.009996账户：AI,一共更新: 3 条记录
+2018-07-11 15:16:06,760 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.174312账户：Bill McCabe/ IOT Recruiter,一共更新: 42 条记录
+2018-07-11 15:16:12,574 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.266339账户：Kirk Borne,一共更新: 64 条记录
+2018-07-11 15:16:19,366 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.352846账户：Bernard Marr,一共更新: 6 条记录
+2018-07-11 15:16:24,728 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.313206账户：David Brin 🛰,一共更新: 7 条记录
+2018-07-11 15:16:28,738 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-11 15:16:33,029 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-11 15:16:46,570 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:08.242372账户：Brian Ahier,一共更新: 28 条记录
+2018-07-11 15:16:52,638 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.685110账户：Andreas Staub,一共更新: 29 条记录
+2018-07-11 15:17:02,362 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:04.915432账户：KDnuggets,一共更新: 28 条记录
+2018-07-11 15:17:06,199 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.009999账户：sandy carter,一共更新: 2 条记录
+2018-07-11 15:19:44,931 - INFO - tweetInfo.py[:94] - 花费时间为：0:02:32.612952账户：Evan Kirstel,一共更新: 200 条记录
+2018-07-11 15:24:06,656 - INFO - tweetInfo.py[:94] - 花费时间为：0:04:14.476314账户：Vala Afshar,一共更新: 134 条记录
+2018-07-11 15:24:18,773 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.519717账户：Spiros Margaris,一共更新: 130 条记录
+2018-07-11 15:24:21,276 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.011993账户：John Hagel,一共更新: 4 条记录
+2018-07-11 15:24:42,644 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:16.940051账户：Mike Quindazzi ✨,一共更新: 29 条记录
+2018-07-11 15:24:50,172 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.907651账户：dez blanchfield,一共更新: 50 条记录
+2018-07-11 15:24:58,407 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.449006账户：Bob E. Hayes,一共更新: 18 条记录
+2018-07-11 15:25:02,506 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.024986账户：Jeremiah Owyang,一共更新: 6 条记录
+2018-07-11 15:25:06,581 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.005992账户：Jack Clark,一共更新: 1 条记录
+2018-07-11 15:25:19,283 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.114933账户：Jim Marous,一共更新: 30 条记录
+2018-07-11 15:25:27,168 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.262849账户：Ronald van Loon,一共更新: 64 条记录
+2018-07-11 15:25:33,547 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.142830账户：Maria Johnsen,一共更新: 26 条记录
+2018-07-11 15:25:43,772 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:04.791723账户：ipfconline,一共更新: 87 条记录
+2018-07-11 15:25:48,551 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.024985账户：Marc Benioff,一共更新: 3 条记录
+2018-07-11 15:25:50,934 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Gary Marcus,一共更新: 0 条记录
+2018-07-11 15:25:54,766 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Eric Horvitz,一共更新: 0 条记录
+2018-07-11 15:25:59,937 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.127927账户：Dr. GP Pulipaka,一共更新: 33 条记录
+2018-07-11 15:26:05,949 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.885333账户：Nathan Benaich,一共更新: 10 条记录
+2018-07-11 15:26:12,996 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.094944账户：Joanna J Bryson,一共更新: 27 条记录
+2018-07-11 15:26:18,617 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.003998账户：Alex J. Champandard,一共更新: 1 条记录
+2018-07-11 15:26:21,112 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.022984账户：Soumith Chintala,一共更新: 3 条记录
+2018-07-11 15:26:23,572 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Adam Coates,一共更新: 0 条记录
+2018-07-11 15:26:28,126 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.042974账户：CyberCode Twins @ 🇵🇷,一共更新: 6 条记录
+2018-07-11 15:26:33,090 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Jana Eggers,一共更新: 0 条记录
+2018-07-11 15:26:37,478 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Oren Etzioni,一共更新: 0 条记录
+2018-07-11 15:26:41,272 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.003997账户：Martin Ford,一共更新: 1 条记录
+2018-07-11 15:26:46,101 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Adam Geitgey,一共更新: 0 条记录
+2018-07-11 15:26:50,908 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.039967账户：John C. Havens,一共更新: 5 条记录
+2018-07-11 15:26:54,564 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.005989账户：David Kenny,一共更新: 1 条记录
+2018-07-11 15:26:58,554 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Tessa Lau,一共更新: 0 条记录
+2018-07-11 15:27:03,553 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Dr. Angelica Lim,一共更新: 0 条记录
+2018-07-11 15:27:07,150 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Satya Mallick,一共更新: 0 条记录
+2018-07-11 15:27:16,612 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:03.394566账户：Chris Messina,一共更新: 18 条记录
+2018-07-11 15:27:21,507 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.084920账户：Elon Musk,一共更新: 16 条记录
+2018-07-11 15:27:34,894 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:07.728658账户：Andy,一共更新: 51 条记录
+2018-07-11 16:56:27,754 - WARNING - tweetInfo.py[:96] - elonmusk [WinError 123] 文件名、目录名或卷标语法不正确。: 'E:\\ScrapyProject\twitterShow/videos'
+2018-07-11 16:56:27,755 - WARNING - tweetInfo.py[:96] - DrAndyPardoe [WinError 123] 文件名、目录名或卷标语法不正确。: 'E:\\ScrapyProject\twitterShow/videos'
+2018-07-11 16:57:55,894 - WARNING - tweetInfo.py[:96] - elonmusk [WinError 123] 文件名、目录名或卷标语法不正确。: 'E:\\ScrapyProject\twitterShow/videos'
+2018-07-11 16:57:55,898 - WARNING - tweetInfo.py[:96] - DrAndyPardoe [WinError 123] 文件名、目录名或卷标语法不正确。: 'E:\\ScrapyProject\twitterShow/videos'
+2018-07-11 16:58:13,838 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/0o9cdCOp_normal.jpg'
+2018-07-11 16:58:13,840 - INFO - saveData.py[:37] - 插入 elonmusk 账户信息失败 (1054, "Unknown column 'followersCount' in 'field list'")
+2018-07-11 16:58:13,841 - INFO - saveData.py[:119] - 执行sql语句失败'NoneType' object is not subscriptable:select accountId from account where twitterId =1016967753771577344
+2018-07-11 16:58:13,842 - INFO - saveData.py[:134] - 执行sql语句失败(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY tweets.tweetsId desc LIMIT 1' at line 1")
+2018-07-11 16:58:15,086 - INFO - saveData.py[:56] - 插入 1016661708126015489 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,090 - INFO - saveData.py[:56] - 插入 1016684366083190785 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,095 - INFO - saveData.py[:56] - 插入 1016686032907931656 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,096 - INFO - saveData.py[:56] - 插入 1016687688848510976 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,105 - INFO - saveData.py[:56] - 插入 1016690602124046336 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,106 - INFO - saveData.py[:56] - 插入 1016695490438619136 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,108 - INFO - saveData.py[:56] - 插入 1016696081697009664 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,109 - INFO - saveData.py[:56] - 插入 1016731812159254529 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,110 - INFO - saveData.py[:56] - 插入 1016733555278348288 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,111 - INFO - saveData.py[:56] - 插入 1016734966812758017 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,113 - INFO - saveData.py[:56] - 插入 1016809376823246848 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,114 - INFO - saveData.py[:56] - 插入 1016810899179474944 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,115 - INFO - saveData.py[:56] - 插入 1016820172685012992 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,119 - INFO - saveData.py[:56] - 插入 1016934663154266112 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,120 - INFO - saveData.py[:56] - 插入 1016936881823633408 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,122 - INFO - saveData.py[:56] - 插入 1016944210753347585 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,123 - INFO - saveData.py[:56] - 插入 1016960469737693184 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,124 - INFO - saveData.py[:56] - 插入 1016962110687854593 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,125 - INFO - saveData.py[:56] - 插入 1016964791347187712 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,126 - INFO - saveData.py[:56] - 插入 1016967753771577344 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:15,127 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.047974账户：Elon Musk,一共更新: 0 条记录
+2018-07-11 16:58:17,743 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/t4PLhSfT_normal.jpeg'
+2018-07-11 16:58:17,744 - INFO - saveData.py[:37] - 插入 DrAndyPardoe 账户信息失败 (1054, "Unknown column 'followersCount' in 'field list'")
+2018-07-11 16:58:17,745 - INFO - saveData.py[:119] - 执行sql语句失败'NoneType' object is not subscriptable:select accountId from account where twitterId =1016955917915643904
+2018-07-11 16:58:17,745 - INFO - saveData.py[:134] - 执行sql语句失败(1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY tweets.tweetsId desc LIMIT 1' at line 1")
+2018-07-11 16:58:19,462 - INFO - saveData.py[:56] - 插入 1016745486861127681 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,597 - INFO - saveData.py[:56] - 插入 1016747456292417538 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,598 - INFO - saveData.py[:56] - 插入 1016760698104418306 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,600 - INFO - saveData.py[:56] - 插入 1016760700277084160 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,601 - INFO - saveData.py[:56] - 插入 1016760703175286784 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,602 - INFO - saveData.py[:56] - 插入 1016780100631777280 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:20,604 - INFO - saveData.py[:56] - 插入 1016781123597295616 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:21,594 - INFO - saveData.py[:56] - 插入 1016791816295927808 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:21,596 - INFO - saveData.py[:56] - 插入 1016804513171365889 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,002 - INFO - saveData.py[:56] - 插入 1016864914139484160 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,003 - INFO - saveData.py[:56] - 插入 1016884338393255936 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,004 - INFO - saveData.py[:56] - 插入 1016925564064714752 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,004 - INFO - saveData.py[:56] - 插入 1016925570888761344 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,005 - INFO - saveData.py[:56] - 插入 1016925572692357121 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,006 - INFO - saveData.py[:56] - 插入 1016940742940471296 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,006 - INFO - saveData.py[:56] - 插入 1016940745759092737 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,007 - INFO - saveData.py[:56] - 插入 1016940748871258112 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,008 - INFO - saveData.py[:56] - 插入 1016955913490632705 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,008 - INFO - saveData.py[:56] - 插入 1016955915621359616 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,009 - INFO - saveData.py[:56] - 插入 1016955917915643904 推文信息失败 (1366, "Incorrect integer value: '' for column 'accountId' at row 1")
+2018-07-11 16:58:22,010 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.549688账户：Andy,一共更新: 0 条记录
+2018-07-11 17:02:02,002 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/0o9cdCOp_normal.jpg'
+2018-07-11 17:02:03,279 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.097945账户：Elon Musk,一共更新: 20 条记录
+2018-07-11 17:02:05,685 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/t4PLhSfT_normal.jpeg'
+2018-07-11 17:02:09,817 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.492690账户：Andy,一共更新: 20 条记录
+2018-07-11 17:03:12,117 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/0o9cdCOp_normal.jpg'
+2018-07-11 17:03:13,145 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-11 17:03:16,299 - WARNING - downImgVideo.py[:70] - [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/t4PLhSfT_normal.jpeg'
+2018-07-11 17:03:17,422 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.020991账户：Andy,一共更新: 3 条记录
+2018-07-11 17:03:52,038 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-11 17:03:55,837 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.000999账户：Andy,一共更新: 0 条记录

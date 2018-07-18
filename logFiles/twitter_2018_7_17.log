@@ -1,0 +1,405 @@
+2018-07-17 10:06:07,009 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/4398626122/1519672659 name 'basePath' is not defined
+2018-07-17 10:06:07,009 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:07,943 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-17 10:06:08,865 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/33838201/1525739769 name 'basePath' is not defined
+2018-07-17 10:06:08,866 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:09,717 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.016605账户：Google AI,一共更新: 1 条记录
+2018-07-17 10:06:10,536 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/740238495952736256/1512365626 name 'basePath' is not defined
+2018-07-17 10:06:10,536 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:11,435 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.018597账户：NVIDIA AI,一共更新: 2 条记录
+2018-07-17 10:06:12,266 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/821766660822626304/1528409701 name 'basePath' is not defined
+2018-07-17 10:06:12,266 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:13,139 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-17 10:06:13,968 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/825117123936612353/1524173807 name 'basePath' is not defined
+2018-07-17 10:06:13,968 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:15,075 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.027200账户：Intel AI,一共更新: 4 条记录
+2018-07-17 10:06:15,895 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/216939636/1483126470 name 'basePath' is not defined
+2018-07-17 10:06:15,895 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:17,279 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-17 10:06:18,076 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/2307675307/1524159942 name 'basePath' is not defined
+2018-07-17 10:06:18,076 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:19,306 - WARNING - downImgVideo.py[:69] - name 'basePath' is not defined
+2018-07-17 10:06:19,317 - WARNING - downImgVideo.py[:69] - name 'basePath' is not defined
+2018-07-17 10:06:19,323 - WARNING - downImgVideo.py[:69] - name 'basePath' is not defined
+2018-07-17 10:06:19,387 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.090768账户：Tamara McCleary,一共更新: 18 条记录
+2018-07-17 10:06:20,167 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/841437061/1473979951 name 'basePath' is not defined
+2018-07-17 10:06:20,176 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:21,348 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.064514账户：AI,一共更新: 10 条记录
+2018-07-17 10:06:22,166 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/973879232722956288/1523569246 name 'basePath' is not defined
+2018-07-17 10:06:22,166 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:24,107 - WARNING - downImgVideo.py[:69] - name 'basePath' is not defined
+2018-07-17 10:06:24,284 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.197052账户：Bill McCabe/ IOT Recruiter,一共更新: 52 条记录
+2018-07-17 10:06:25,142 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/534563976/1521834569 name 'basePath' is not defined
+2018-07-17 10:06:25,142 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:27,044 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.160004账户：Kirk Borne,一共更新: 39 条记录
+2018-07-17 10:06:27,844 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/108286674/1527069823 name 'basePath' is not defined
+2018-07-17 10:06:27,845 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:29,578 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.038129账户：Bernard Marr,一共更新: 5 条记录
+2018-07-17 10:06:30,430 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/192589318/1473461892 name 'basePath' is not defined
+2018-07-17 10:06:30,430 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:31,508 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.051822账户：David Brin 🛰,一共更新: 8 条记录
+2018-07-17 10:06:32,754 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/3270678680/1437076786 name 'basePath' is not defined
+2018-07-17 10:06:32,754 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:33,710 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-17 10:06:35,179 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/130745589/1424757757 name 'basePath' is not defined
+2018-07-17 10:06:35,179 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:06:36,094 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-17 10:06:36,940 - WARNING - downImgVideo.py[:108] - https://pbs.twimg.com/profile_banners/18244332/1503029196 name 'basePath' is not defined
+2018-07-17 10:06:36,940 - WARNING - downImgVideo.py[:88] - name 'basePath' is not defined
+2018-07-17 10:08:27,902 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-17 10:08:31,109 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-17 10:08:34,398 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-17 10:08:38,627 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-17 10:08:41,647 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-17 10:08:45,465 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-17 10:08:48,662 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Tamara McCleary,一共更新: 0 条记录
+2018-07-17 10:08:51,721 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：AI,一共更新: 0 条记录
+2018-07-17 10:08:54,655 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Bill McCabe/ IOT Recruiter,一共更新: 0 条记录
+2018-07-17 10:08:57,763 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Kirk Borne,一共更新: 0 条记录
+2018-07-17 10:09:01,186 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Bernard Marr,一共更新: 0 条记录
+2018-07-17 10:09:04,255 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-17 10:09:07,458 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-17 10:09:11,045 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-17 10:09:27,375 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:11.637887账户：Brian Ahier,一共更新: 34 条记录
+2018-07-17 10:09:40,802 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:10.433570账户：Andreas Staub,一共更新: 32 条记录
+2018-07-17 10:09:53,629 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:09.052818账户：KDnuggets,一共更新: 29 条记录
+2018-07-17 10:09:59,611 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.929056账户：sandy carter,一共更新: 9 条记录
+2018-07-17 10:13:03,471 - WARNING - tweetInfo.py[:99] - OpenAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,478 - WARNING - tweetInfo.py[:99] - GoogleAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,484 - WARNING - tweetInfo.py[:99] - NvidiaAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,490 - WARNING - tweetInfo.py[:99] - PartnershipAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,496 - WARNING - tweetInfo.py[:99] - IntelAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,499 - WARNING - tweetInfo.py[:99] - AndrewYNg [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,502 - WARNING - tweetInfo.py[:99] - TamaraMcCleary [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,505 - WARNING - tweetInfo.py[:99] - DeepLearn007 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,508 - WARNING - tweetInfo.py[:99] - IOT_Recruiting [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,512 - WARNING - tweetInfo.py[:99] - KirkDBorne [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,515 - WARNING - tweetInfo.py[:99] - BernardMarr [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,520 - WARNING - tweetInfo.py[:99] - DavidBrin [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,523 - WARNING - tweetInfo.py[:99] - pmddomingos [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,526 - WARNING - tweetInfo.py[:99] - drfeifei [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,528 - WARNING - tweetInfo.py[:99] - ahier [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,530 - WARNING - tweetInfo.py[:99] - andi_staub [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,531 - WARNING - tweetInfo.py[:99] - kdnuggets [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,533 - WARNING - tweetInfo.py[:99] - sandy_carter [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,535 - WARNING - tweetInfo.py[:99] - evankirstel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,537 - WARNING - tweetInfo.py[:99] - ValaAfshar [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,539 - WARNING - tweetInfo.py[:99] - SpirosMargaris [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,541 - WARNING - tweetInfo.py[:99] - jhagel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,543 - WARNING - tweetInfo.py[:99] - MikeQuindazzi [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,546 - WARNING - tweetInfo.py[:99] - dez_blanchfield [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,549 - WARNING - tweetInfo.py[:99] - bobehayes [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,552 - WARNING - tweetInfo.py[:99] - jowyang [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,555 - WARNING - tweetInfo.py[:99] - jackclarkSF [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,558 - WARNING - tweetInfo.py[:99] - JimMarous [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,561 - WARNING - tweetInfo.py[:99] - Ronald_vanLoon [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,563 - WARNING - tweetInfo.py[:99] - iMariaJohnsen [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,566 - WARNING - tweetInfo.py[:99] - ipfconline1 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,568 - WARNING - tweetInfo.py[:99] - Benioff [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,570 - WARNING - tweetInfo.py[:99] - GaryMarcus [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,572 - WARNING - tweetInfo.py[:99] - erichorvitz [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,574 - WARNING - tweetInfo.py[:99] - gp_pulipaka [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,576 - WARNING - tweetInfo.py[:99] - NathanBenaich [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,578 - WARNING - tweetInfo.py[:99] - j2bryson [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,579 - WARNING - tweetInfo.py[:99] - alexjc [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,581 - WARNING - tweetInfo.py[:99] - soumithchintala [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,584 - WARNING - tweetInfo.py[:99] - adampaulcoates [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,587 - WARNING - tweetInfo.py[:99] - cybercodetwins [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,590 - WARNING - tweetInfo.py[:99] - jeggers [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,593 - WARNING - tweetInfo.py[:99] - etzioni [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,596 - WARNING - tweetInfo.py[:99] - MFordFuture [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,598 - WARNING - tweetInfo.py[:99] - ageitgey [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,600 - WARNING - tweetInfo.py[:99] - johnchavens [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,602 - WARNING - tweetInfo.py[:99] - davidwkenny [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,605 - WARNING - tweetInfo.py[:99] - tessalau [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,607 - WARNING - tweetInfo.py[:99] - petitegeek [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,609 - WARNING - tweetInfo.py[:99] - LearnOpenCV [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,610 - WARNING - tweetInfo.py[:99] - chrismessina [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,612 - WARNING - tweetInfo.py[:99] - elonmusk [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:13:03,613 - WARNING - tweetInfo.py[:99] - DrAndyPardoe [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,413 - WARNING - tweetInfo.py[:99] - OpenAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,419 - WARNING - tweetInfo.py[:99] - GoogleAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,426 - WARNING - tweetInfo.py[:99] - NvidiaAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,432 - WARNING - tweetInfo.py[:99] - PartnershipAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,439 - WARNING - tweetInfo.py[:99] - IntelAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,447 - WARNING - tweetInfo.py[:99] - AndrewYNg [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,453 - WARNING - tweetInfo.py[:99] - TamaraMcCleary [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,458 - WARNING - tweetInfo.py[:99] - DeepLearn007 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,464 - WARNING - tweetInfo.py[:99] - IOT_Recruiting [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,468 - WARNING - tweetInfo.py[:99] - KirkDBorne [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,473 - WARNING - tweetInfo.py[:99] - BernardMarr [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,477 - WARNING - tweetInfo.py[:99] - DavidBrin [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,479 - WARNING - tweetInfo.py[:99] - pmddomingos [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,481 - WARNING - tweetInfo.py[:99] - drfeifei [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,482 - WARNING - tweetInfo.py[:99] - ahier [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,484 - WARNING - tweetInfo.py[:99] - andi_staub [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,485 - WARNING - tweetInfo.py[:99] - kdnuggets [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,487 - WARNING - tweetInfo.py[:99] - sandy_carter [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,489 - WARNING - tweetInfo.py[:99] - evankirstel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,491 - WARNING - tweetInfo.py[:99] - ValaAfshar [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,493 - WARNING - tweetInfo.py[:99] - SpirosMargaris [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,495 - WARNING - tweetInfo.py[:99] - jhagel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,496 - WARNING - tweetInfo.py[:99] - MikeQuindazzi [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,498 - WARNING - tweetInfo.py[:99] - dez_blanchfield [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,501 - WARNING - tweetInfo.py[:99] - bobehayes [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,504 - WARNING - tweetInfo.py[:99] - jowyang [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,507 - WARNING - tweetInfo.py[:99] - jackclarkSF [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,511 - WARNING - tweetInfo.py[:99] - JimMarous [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,513 - WARNING - tweetInfo.py[:99] - Ronald_vanLoon [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,516 - WARNING - tweetInfo.py[:99] - iMariaJohnsen [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,518 - WARNING - tweetInfo.py[:99] - ipfconline1 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,522 - WARNING - tweetInfo.py[:99] - Benioff [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,524 - WARNING - tweetInfo.py[:99] - GaryMarcus [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,525 - WARNING - tweetInfo.py[:99] - erichorvitz [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,527 - WARNING - tweetInfo.py[:99] - gp_pulipaka [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,529 - WARNING - tweetInfo.py[:99] - NathanBenaich [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,530 - WARNING - tweetInfo.py[:99] - j2bryson [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,532 - WARNING - tweetInfo.py[:99] - alexjc [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,534 - WARNING - tweetInfo.py[:99] - soumithchintala [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,536 - WARNING - tweetInfo.py[:99] - adampaulcoates [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,540 - WARNING - tweetInfo.py[:99] - cybercodetwins [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,541 - WARNING - tweetInfo.py[:99] - jeggers [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,543 - WARNING - tweetInfo.py[:99] - etzioni [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,545 - WARNING - tweetInfo.py[:99] - MFordFuture [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,548 - WARNING - tweetInfo.py[:99] - ageitgey [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,550 - WARNING - tweetInfo.py[:99] - johnchavens [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,552 - WARNING - tweetInfo.py[:99] - davidwkenny [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,555 - WARNING - tweetInfo.py[:99] - tessalau [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,558 - WARNING - tweetInfo.py[:99] - petitegeek [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,561 - WARNING - tweetInfo.py[:99] - LearnOpenCV [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,563 - WARNING - tweetInfo.py[:99] - chrismessina [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,566 - WARNING - tweetInfo.py[:99] - elonmusk [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:14:41,569 - WARNING - tweetInfo.py[:99] - DrAndyPardoe [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,328 - WARNING - tweetInfo.py[:99] - OpenAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,335 - WARNING - tweetInfo.py[:99] - GoogleAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,341 - WARNING - tweetInfo.py[:99] - NvidiaAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,347 - WARNING - tweetInfo.py[:99] - PartnershipAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,354 - WARNING - tweetInfo.py[:99] - IntelAI [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,362 - WARNING - tweetInfo.py[:99] - AndrewYNg [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,370 - WARNING - tweetInfo.py[:99] - TamaraMcCleary [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,376 - WARNING - tweetInfo.py[:99] - DeepLearn007 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,381 - WARNING - tweetInfo.py[:99] - IOT_Recruiting [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,387 - WARNING - tweetInfo.py[:99] - KirkDBorne [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,391 - WARNING - tweetInfo.py[:99] - BernardMarr [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,395 - WARNING - tweetInfo.py[:99] - DavidBrin [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,398 - WARNING - tweetInfo.py[:99] - pmddomingos [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,400 - WARNING - tweetInfo.py[:99] - drfeifei [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,401 - WARNING - tweetInfo.py[:99] - ahier [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,403 - WARNING - tweetInfo.py[:99] - andi_staub [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,405 - WARNING - tweetInfo.py[:99] - kdnuggets [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,406 - WARNING - tweetInfo.py[:99] - sandy_carter [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,408 - WARNING - tweetInfo.py[:99] - evankirstel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,410 - WARNING - tweetInfo.py[:99] - ValaAfshar [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,414 - WARNING - tweetInfo.py[:99] - SpirosMargaris [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,417 - WARNING - tweetInfo.py[:99] - jhagel [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,420 - WARNING - tweetInfo.py[:99] - MikeQuindazzi [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,423 - WARNING - tweetInfo.py[:99] - dez_blanchfield [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,425 - WARNING - tweetInfo.py[:99] - bobehayes [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,428 - WARNING - tweetInfo.py[:99] - jowyang [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,431 - WARNING - tweetInfo.py[:99] - jackclarkSF [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,434 - WARNING - tweetInfo.py[:99] - JimMarous [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,436 - WARNING - tweetInfo.py[:99] - Ronald_vanLoon [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,439 - WARNING - tweetInfo.py[:99] - iMariaJohnsen [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,441 - WARNING - tweetInfo.py[:99] - ipfconline1 [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,443 - WARNING - tweetInfo.py[:99] - Benioff [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,446 - WARNING - tweetInfo.py[:99] - GaryMarcus [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,449 - WARNING - tweetInfo.py[:99] - erichorvitz [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,451 - WARNING - tweetInfo.py[:99] - gp_pulipaka [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,452 - WARNING - tweetInfo.py[:99] - NathanBenaich [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,455 - WARNING - tweetInfo.py[:99] - j2bryson [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,457 - WARNING - tweetInfo.py[:99] - alexjc [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,458 - WARNING - tweetInfo.py[:99] - soumithchintala [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,461 - WARNING - tweetInfo.py[:99] - adampaulcoates [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,463 - WARNING - tweetInfo.py[:99] - cybercodetwins [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,465 - WARNING - tweetInfo.py[:99] - jeggers [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,468 - WARNING - tweetInfo.py[:99] - etzioni [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,471 - WARNING - tweetInfo.py[:99] - MFordFuture [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,475 - WARNING - tweetInfo.py[:99] - ageitgey [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,478 - WARNING - tweetInfo.py[:99] - johnchavens [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,481 - WARNING - tweetInfo.py[:99] - davidwkenny [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,484 - WARNING - tweetInfo.py[:99] - tessalau [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,486 - WARNING - tweetInfo.py[:99] - petitegeek [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,489 - WARNING - tweetInfo.py[:99] - LearnOpenCV [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,491 - WARNING - tweetInfo.py[:99] - chrismessina [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,493 - WARNING - tweetInfo.py[:99] - elonmusk [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:15:25,495 - WARNING - tweetInfo.py[:99] - DrAndyPardoe [Errno 2] No such file or directory: 'E:/ScrapyProject/twitterShow/static/images/headImg/fixhead.jpg'
+2018-07-17 10:17:47,311 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:09.354195账户：OpenAI,一共更新: 20 条记录
+2018-07-17 10:17:51,261 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.085933账户：Google AI,一共更新: 20 条记录
+2018-07-17 10:17:55,860 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.072957账户：NVIDIA AI,一共更新: 20 条记录
+2018-07-17 10:18:00,736 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.085951账户：Partnership on AI,一共更新: 20 条记录
+2018-07-17 10:18:04,545 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.083945账户：Intel AI,一共更新: 20 条记录
+2018-07-17 10:18:08,472 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.060965账户：Andrew Ng,一共更新: 20 条记录
+2018-07-17 10:18:16,120 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.950093账户：Tamara McCleary,一共更新: 20 条记录
+2018-07-17 10:18:20,829 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.077938账户：AI,一共更新: 20 条记录
+2018-07-17 10:18:24,725 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.118932账户：Bill McCabe/ IOT Recruiter,一共更新: 20 条记录
+2018-07-17 10:18:28,339 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.097939账户：Kirk Borne,一共更新: 20 条记录
+2018-07-17 10:18:32,443 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.086921账户：Bernard Marr,一共更新: 20 条记录
+2018-07-17 10:18:38,407 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.125792账户：David Brin 🛰,一共更新: 20 条记录
+2018-07-17 10:18:43,449 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.783834账户：Pedro Domingos,一共更新: 20 条记录
+2018-07-17 10:18:48,417 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.023663账户：Fei-Fei Li,一共更新: 20 条记录
+2018-07-17 10:18:58,496 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:05.684281账户：Brian Ahier,一共更新: 20 条记录
+2018-07-17 10:19:02,142 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.980176账户：Andreas Staub,一共更新: 20 条记录
+2018-07-17 10:19:11,200 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:05.537517账户：KDnuggets,一共更新: 20 条记录
+2018-07-17 10:19:18,152 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.684247账户：sandy carter,一共更新: 20 条记录
+2018-07-17 10:19:48,645 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:27.001691账户：Evan Kirstel,一共更新: 20 条记录
+2018-07-17 10:20:17,204 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:24.601102账户：Vala Afshar,一共更新: 20 条记录
+2018-07-17 10:20:22,641 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.910872账户：Spiros Margaris,一共更新: 20 条记录
+2018-07-17 10:20:26,121 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.029615账户：John Hagel,一共更新: 20 条记录
+2018-07-17 10:20:37,233 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:07.389278账户：Mike Quindazzi ✨,一共更新: 20 条记录
+2018-07-17 10:20:41,988 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.102942账户：dez blanchfield,一共更新: 20 条记录
+2018-07-17 10:20:47,838 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.874817账户：Bob E. Hayes,一共更新: 20 条记录
+2018-07-17 10:21:02,020 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:10.690764账户：Jeremiah Owyang,一共更新: 20 条记录
+2018-07-17 10:21:07,292 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.378396账户：Jack Clark,一共更新: 20 条记录
+2018-07-17 10:21:11,325 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.079932账户：Jim Marous,一共更新: 20 条记录
+2018-07-17 10:21:15,064 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.059949账户：Ronald van Loon,一共更新: 20 条记录
+2018-07-17 10:21:20,292 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.649861账户：Maria Johnsen,一共更新: 20 条记录
+2018-07-17 10:21:23,954 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.083951账户：ipfconline,一共更新: 20 条记录
+2018-07-17 10:21:30,164 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.455886账户：Marc Benioff,一共更新: 20 条记录
+2018-07-17 10:21:33,080 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.085948账户：Gary Marcus,一共更新: 20 条记录
+2018-07-17 10:21:39,197 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.235629账户：Eric Horvitz,一共更新: 20 条记录
+2018-07-17 10:21:44,534 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.108791账户：Dr. GP Pulipaka,一共更新: 20 条记录
+2018-07-17 10:22:01,579 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:13.161365账户：Nathan Benaich,一共更新: 20 条记录
+2018-07-17 10:22:06,223 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.061965账户：Joanna J Bryson,一共更新: 20 条记录
+2018-07-17 10:22:10,952 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.060968账户：Alex J. Champandard,一共更新: 20 条记录
+2018-07-17 10:22:15,181 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.084941账户：Soumith Chintala,一共更新: 20 条记录
+2018-07-17 10:22:17,778 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.078941账户：Adam Coates,一共更新: 20 条记录
+2018-07-17 10:22:21,914 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.050970账户：CyberCode Twins @ 🇵🇷,一共更新: 20 条记录
+2018-07-17 10:22:27,713 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.607979账户：Jana Eggers,一共更新: 20 条记录
+2018-07-17 10:22:32,295 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.703563账户：Oren Etzioni,一共更新: 20 条记录
+2018-07-17 10:22:36,006 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.088948账户：Martin Ford,一共更新: 20 条记录
+2018-07-17 10:22:41,962 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.015374账户：Adam Geitgey,一共更新: 20 条记录
+2018-07-17 10:22:48,150 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.250553账户：John C. Havens,一共更新: 20 条记录
+2018-07-17 10:22:53,040 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.973443账户：David Kenny,一共更新: 20 条记录
+2018-07-17 10:22:58,638 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.162397账户：Tessa Lau,一共更新: 20 条记录
+2018-07-17 10:23:02,617 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.078952账户：Dr. Angelica Lim,一共更新: 20 条记录
+2018-07-17 10:23:05,218 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.067961账户：Satya Mallick,一共更新: 20 条记录
+2018-07-17 10:23:16,953 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:07.958283账户：Chris Messina,一共更新: 20 条记录
+2018-07-17 10:23:20,232 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.093917账户：Elon Musk,一共更新: 20 条记录
+2018-07-17 10:23:28,545 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:04.823388账户：Andy,一共更新: 20 条记录
+2018-07-17 11:48:47,648 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-17 11:48:52,493 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-17 11:48:57,376 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-17 11:49:04,473 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-17 11:49:09,191 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-17 11:49:13,393 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-17 11:49:22,363 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:04.926117账户：Tamara McCleary,一共更新: 2 条记录
+2018-07-17 11:49:25,994 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：AI,一共更新: 0 条记录
+2018-07-17 11:49:30,376 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.027976账户：Bill McCabe/ IOT Recruiter,一共更新: 6 条记录
+2018-07-17 11:49:34,751 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Kirk Borne,一共更新: 0 条记录
+2018-07-17 11:49:39,473 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Bernard Marr,一共更新: 0 条记录
+2018-07-17 11:49:43,227 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-17 11:49:48,175 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-17 11:49:52,299 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-17 11:49:57,286 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.010994账户：Brian Ahier,一共更新: 5 条记录
+2018-07-17 11:49:59,850 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.024985账户：Andreas Staub,一共更新: 5 条记录
+2018-07-17 11:50:03,844 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：KDnuggets,一共更新: 0 条记录
+2018-07-17 11:50:09,523 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.946157账户：sandy carter,一共更新: 2 条记录
+2018-07-17 11:50:37,561 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:23.631350账户：Evan Kirstel,一共更新: 20 条记录
+2018-07-17 11:50:41,299 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.010993账户：Vala Afshar,一共更新: 5 条记录
+2018-07-17 11:50:45,451 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.007998账户：Spiros Margaris,一共更新: 3 条记录
+2018-07-17 11:50:47,802 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：John Hagel,一共更新: 0 条记录
+2018-07-17 11:50:51,866 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.022006账户：Mike Quindazzi ✨,一共更新: 4 条记录
+2018-07-17 11:50:57,743 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.010985账户：dez blanchfield,一共更新: 5 条记录
+2018-07-17 11:51:02,051 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Bob E. Hayes,一共更新: 0 条记录
+2018-07-17 11:51:06,095 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Jeremiah Owyang,一共更新: 0 条记录
+2018-07-17 11:51:09,931 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.000999账户：Jack Clark,一共更新: 0 条记录
+2018-07-17 11:51:13,936 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.005995账户：Jim Marous,一共更新: 2 条记录
+2018-07-17 11:51:19,052 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.038981账户：Ronald van Loon,一共更新: 3 条记录
+2018-07-17 11:51:24,937 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Maria Johnsen,一共更新: 0 条记录
+2018-07-17 11:51:29,301 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.009005账户：ipfconline,一共更新: 3 条记录
+2018-07-17 11:51:33,120 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Marc Benioff,一共更新: 0 条记录
+2018-07-17 11:51:35,712 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.002999账户：Gary Marcus,一共更新: 1 条记录
+2018-07-17 11:51:39,586 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Eric Horvitz,一共更新: 0 条记录
+2018-07-17 11:51:44,240 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.003995账户：Dr. GP Pulipaka,一共更新: 1 条记录
+2018-07-17 11:51:48,173 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Nathan Benaich,一共更新: 0 条记录
+2018-07-17 11:51:52,068 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Joanna J Bryson,一共更新: 0 条记录
+2018-07-17 11:51:57,972 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Alex J. Champandard,一共更新: 0 条记录
+2018-07-17 11:52:01,464 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Soumith Chintala,一共更新: 0 条记录
+2018-07-17 11:52:04,455 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Adam Coates,一共更新: 0 条记录
+2018-07-17 11:52:09,119 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：CyberCode Twins @ 🇵🇷,一共更新: 0 条记录
+2018-07-17 11:52:14,594 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Jana Eggers,一共更新: 0 条记录
+2018-07-17 11:52:18,906 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Oren Etzioni,一共更新: 0 条记录
+2018-07-17 11:52:24,067 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Martin Ford,一共更新: 0 条记录
+2018-07-17 11:52:31,487 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Adam Geitgey,一共更新: 0 条记录
+2018-07-17 11:52:37,422 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：John C. Havens,一共更新: 0 条记录
+2018-07-17 11:52:40,982 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：David Kenny,一共更新: 0 条记录
+2018-07-17 11:52:47,006 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Tessa Lau,一共更新: 0 条记录
+2018-07-17 11:52:52,947 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Dr. Angelica Lim,一共更新: 0 条记录
+2018-07-17 11:52:58,597 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Satya Mallick,一共更新: 0 条记录
+2018-07-17 11:53:04,844 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Chris Messina,一共更新: 0 条记录
+2018-07-17 11:53:08,274 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-17 11:53:15,792 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.006996账户：Andy,一共更新: 1 条记录
+2018-07-17 15:07:48,140 - INFO - timedTask.py[:7] - 执行任务开始,时间开始于 2018-07-17 15:07:48.140124
+2018-07-17 15:07:54,675 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-17 15:08:00,652 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-17 15:08:05,986 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-17 15:08:13,375 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-17 15:08:17,274 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-17 15:08:21,444 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-17 15:08:27,839 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.916032账户：Tamara McCleary,一共更新: 3 条记录
+2018-07-17 15:08:33,608 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.018988账户：AI,一共更新: 2 条记录
+2018-07-17 15:08:38,137 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.062965账户：Bill McCabe/ IOT Recruiter,一共更新: 10 条记录
+2018-07-17 15:08:42,139 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.006993账户：Kirk Borne,一共更新: 2 条记录
+2018-07-17 15:08:47,261 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.006968账户：Bernard Marr,一共更新: 1 条记录
+2018-07-17 15:08:52,043 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：David Brin 🛰,一共更新: 0 条记录
+2018-07-17 15:08:56,273 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-17 15:09:02,765 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-17 15:09:08,229 - WARNING - tweetInfo.py[:99] - ahier Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=ahier&since_id=1019050210713128960&count=200 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:09:09,248 - WARNING - downImgVideo.py[:89] - HTTPConnectionPool(host='127.0.0.1', port=1080): Max retries exceeded with url: http://pbs.twimg.com/profile_images/732482833407582210/TDe-Ph8r_normal.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025D5D150A20>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:13,231 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.678536账户：Andreas Staub,一共更新: 16 条记录
+2018-07-17 15:09:22,057 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:04.598077账户：KDnuggets,一共更新: 2 条记录
+2018-07-17 15:09:27,535 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：sandy carter,一共更新: 0 条记录
+2018-07-17 15:09:34,620 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:02.393737账户：Evan Kirstel,一共更新: 15 条记录
+2018-07-17 15:09:37,284 - WARNING - tweetInfo.py[:99] - ValaAfshar Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=ValaAfshar&since_id=1019066172086652928&count=200 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:09:38,302 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/2711212681/1530084124 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/2711212681/1530084124 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D163710>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:41,675 - WARNING - downImgVideo.py[:70] - HTTPConnectionPool(host='127.0.0.1', port=1080): Max retries exceeded with url: http://pbs.twimg.com/media/DiQ7rdKWAAE4Ju_.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025D5E9F8D68>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:41,972 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.311802账户：Spiros Margaris,一共更新: 44 条记录
+2018-07-17 15:09:44,479 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：John Hagel,一共更新: 0 条记录
+2018-07-17 15:09:45,536 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/2344530218/1527574812 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/2344530218/1527574812 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D98B5C0>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:46,017 - WARNING - tweetInfo.py[:99] - MikeQuindazzi Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=MikeQuindazzi&since_id=1019054976667185152&count=200 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D13D6D8>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:52,674 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.069959账户：dez blanchfield,一共更新: 10 条记录
+2018-07-17 15:09:57,456 - WARNING - downImgVideo.py[:89] - HTTPConnectionPool(host='127.0.0.1', port=1080): Max retries exceeded with url: http://pbs.twimg.com/profile_images/773045033540853761/8VwNcbyh_normal.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025D5D1300B8>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:09:58,505 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Bob E. Hayes,一共更新: 0 条记录
+2018-07-17 15:09:58,522 - WARNING - tweetInfo.py[:99] - jowyang Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/users/show.json?id=jowyang (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D150A90>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:10:02,910 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.003983账户：Jack Clark,一共更新: 1 条记录
+2018-07-17 15:10:03,982 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/16137442/1530633040 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/16137442/1530633040 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:04,513 - WARNING - tweetInfo.py[:99] - JimMarous Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=JimMarous&since_id=1019066935269625856&count=200 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D13D2E8>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:10:05,542 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/555031989/1504691055 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/555031989/1504691055 (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x0000025D5D999048>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:10:06,071 - WARNING - tweetInfo.py[:99] - Ronald_vanLoon Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=Ronald_vanLoon&since_id=1019058863625076737&count=200 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:09,437 - WARNING - tweetInfo.py[:99] - iMariaJohnsen Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=iMariaJohnsen&since_id=1018959720156147713&count=200 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:10,771 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/705539763349164032/1462657867 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/705539763349164032/1462657867 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:31,946 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:19.061140账户：ipfconline,一共更新: 16 条记录
+2018-07-17 15:10:35,877 - WARNING - downImgVideo.py[:89] - HTTPConnectionPool(host='127.0.0.1', port=1080): Max retries exceeded with url: http://pbs.twimg.com/profile_images/988262236299788288/8RSTZPjZ_normal.jpg (Caused by ProxyError('Cannot connect to proxy.', NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000025D5D163320>: Failed to establish a new connection: [WinError 10048] 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。',)))
+2018-07-17 15:10:40,281 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:01.297256账户：Marc Benioff,一共更新: 4 条记录
+2018-07-17 15:10:41,774 - WARNING - tweetInfo.py[:99] - GaryMarcus Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=GaryMarcus&since_id=1019051798898802688&count=200 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:46,568 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.004988账户：Eric Horvitz,一共更新: 1 条记录
+2018-07-17 15:10:50,559 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Dr. GP Pulipaka,一共更新: 0 条记录
+2018-07-17 15:10:51,975 - WARNING - downImgVideo.py[:109] - https://pbs.twimg.com/profile_banners/422388777/1525131650 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/422388777/1525131650 (Caused by ProxyError('Cannot connect to proxy.', OSError('Tunnel connection failed: 500 Internal Privoxy Error',)))
+2018-07-17 15:10:53,450 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Nathan Benaich,一共更新: 0 条记录
+2018-07-17 15:10:58,588 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Joanna J Bryson,一共更新: 0 条记录
+2018-07-17 15:11:05,529 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Alex J. Champandard,一共更新: 0 条记录
+2018-07-17 15:11:08,356 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Soumith Chintala,一共更新: 0 条记录
+2018-07-17 15:11:10,863 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Adam Coates,一共更新: 0 条记录
+2018-07-17 15:11:15,559 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.015992账户：CyberCode Twins @ 🇵🇷,一共更新: 4 条记录
+2018-07-17 15:11:21,486 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Jana Eggers,一共更新: 0 条记录
+2018-07-17 15:11:27,811 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Oren Etzioni,一共更新: 0 条记录
+2018-07-17 15:11:32,746 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Martin Ford,一共更新: 0 条记录
+2018-07-17 15:11:37,199 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Adam Geitgey,一共更新: 0 条记录
+2018-07-17 15:11:41,323 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：John C. Havens,一共更新: 0 条记录
+2018-07-17 15:11:45,471 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：David Kenny,一共更新: 0 条记录
+2018-07-17 15:11:49,070 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Tessa Lau,一共更新: 0 条记录
+2018-07-17 15:11:53,073 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Dr. Angelica Lim,一共更新: 0 条记录
+2018-07-17 15:11:55,605 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Satya Mallick,一共更新: 0 条记录
+2018-07-17 15:11:59,980 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.004999账户：Chris Messina,一共更新: 1 条记录
+2018-07-17 15:12:04,071 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Elon Musk,一共更新: 0 条记录
+2018-07-17 15:12:11,054 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.569654账户：Andy,一共更新: 7 条记录
+2018-07-17 15:12:11,147 - INFO - timedTask.py[:11] - 执行任务开始,时间结束于 2018-07-17 15:12:11.147918
+2018-07-17 18:07:48,144 - INFO - timedTask.py[:7] - 执行任务开始,时间开始于 2018-07-17 18:07:48.142364
+2018-07-17 18:07:56,537 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-17 18:08:01,527 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-17 18:08:08,329 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-17 18:08:19,027 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-17 18:08:25,290 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Intel AI,一共更新: 0 条记录
+2018-07-17 18:08:36,478 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-17 18:08:40,522 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.013987账户：Tamara McCleary,一共更新: 2 条记录
+2018-07-17 18:55:13,384 - INFO - tweetInfo.py[:97] - 花费时间为：0:46:28.300915账户：AI,一共更新: 2 条记录

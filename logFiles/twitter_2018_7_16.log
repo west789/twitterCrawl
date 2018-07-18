@@ -1,0 +1,34 @@
+2018-07-16 16:02:56,234 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-16 16:03:02,652 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-16 16:03:15,590 - WARNING - tweetInfo.py[:96] - NvidiaAI Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/statuses/user_timeline.json?id=NvidiaAI&since_id=1017903911624167427&count=200 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-16 16:03:19,809 - WARNING - downImgVideo.py[:91] - https://pbs.twimg.com/profile_banners/821766660822626304/1528409701 HTTPSConnectionPool(host='pbs.twimg.com', port=443): Max retries exceeded with url: /profile_banners/821766660822626304/1528409701 (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:777)'),))
+2018-07-16 16:03:21,162 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-16 16:03:26,703 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.008968账户：Intel AI,一共更新: 3 条记录
+2018-07-16 16:03:30,757 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Andrew Ng,一共更新: 0 条记录
+2018-07-16 16:03:41,944 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:06.087513账户：Tamara McCleary,一共更新: 19 条记录
+2018-07-16 16:03:45,567 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.013475账户：AI,一共更新: 5 条记录
+2018-07-16 16:04:01,468 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:11.081859账户：Bill McCabe/ IOT Recruiter,一共更新: 60 条记录
+2018-07-16 16:04:05,733 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.161296账户：Kirk Borne,一共更新: 34 条记录
+2018-07-16 16:04:11,688 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.015097账户：Bernard Marr,一共更新: 6 条记录
+2018-07-16 16:04:16,589 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:01.073172账户：David Brin 🛰,一共更新: 7 条记录
+2018-07-16 16:04:20,549 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-16 16:04:24,207 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00账户：Fei-Fei Li,一共更新: 0 条记录
+2018-07-16 16:04:31,884 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.569781账户：Brian Ahier,一共更新: 19 条记录
+2018-07-16 16:04:51,295 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:15.804879账户：Andreas Staub,一共更新: 57 条记录
+2018-07-16 16:05:02,418 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:06.393951账户：KDnuggets,一共更新: 19 条记录
+2018-07-16 16:05:09,152 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:02.402710账户：sandy carter,一共更新: 10 条记录
+2018-07-16 16:14:07,951 - INFO - tweetInfo.py[:94] - 花费时间为：0:08:48.087165账户：Evan Kirstel,一共更新: 200 条记录
+2018-07-16 16:18:01,432 - INFO - tweetInfo.py[:94] - 花费时间为：0:03:46.995945账户：Vala Afshar,一共更新: 111 条记录
+2018-07-16 16:18:29,426 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:19.566059账户：Spiros Margaris,一共更新: 92 条记录
+2018-07-16 16:18:34,108 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.023954账户：John Hagel,一共更新: 4 条记录
+2018-07-16 16:18:43,021 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.130294账户：Mike Quindazzi ✨,一共更新: 34 条记录
+2018-07-16 16:24:34,850 - WARNING - downImgVideo.py[:39] - ('Connection broken: IncompleteRead(0 bytes read, 8135 more expected)', IncompleteRead(0 bytes read, 8135 more expected))
+2018-07-16 16:24:37,767 - INFO - tweetInfo.py[:94] - 花费时间为：0:05:37.929007账户：dez blanchfield,一共更新: 164 条记录
+2018-07-16 16:24:42,368 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.072365账户：Bob E. Hayes,一共更新: 14 条记录
+2018-07-16 16:24:46,897 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.003993账户：Jeremiah Owyang,一共更新: 1 条记录
+2018-07-16 16:24:53,728 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.021430账户：Jack Clark,一共更新: 5 条记录
+2018-07-16 16:25:00,901 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.065233账户：Jim Marous,一共更新: 15 条记录
+2018-07-16 16:25:06,096 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.210627账户：Ronald van Loon,一共更新: 48 条记录
+2018-07-16 16:25:10,822 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.019962账户：Maria Johnsen,一共更新: 6 条记录
+2018-07-16 16:25:14,506 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:00.005426账户：Elon Musk,一共更新: 1 条记录
+2018-07-16 16:25:29,614 - INFO - tweetInfo.py[:94] - 花费时间为：0:00:09.989046账户：Andy,一共更新: 41 条记录

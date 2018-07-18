@@ -5,7 +5,10 @@
 #申请app相关权限
 https://apps.twitter.com/
 
-测试调用次数：12:15开始测试
+#数据库连接使用utf8mb4
+以下数据库字段编码是utf8mb4
+account表的：accountName description
+tweets表的：description
 
 #AI相关twitter账户
 Ronald_vanLoon, 

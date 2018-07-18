@@ -27,4 +27,4 @@ if __name__ == '__main__':
     main()
     endTime = datetime.now()
     print("---------------")
-    print("程序执行完毕，共耗时%s" % (endTime-starTime))
+    print("程序执行完毕，共耗时%s" % (endTime - starTime))

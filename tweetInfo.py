@@ -5,6 +5,7 @@ import re
 import asyncio
 from loggingModule import logger
 
+
 def getTweetsUser(api, username, twitterPip):
     try:
         idList = twitterPip.get_twitterIdList()
@@ -28,7 +29,7 @@ def getTweetsUser(api, username, twitterPip):
         friendsCount = userInfo.friends_count
         followersCount = userInfo.followers_count
         favoritesCount = userInfo.favourites_count
-        accountTime = userInfo.status.created_at
+        accountTime = userInfo.created_at
         userInfoDict["accountName"] = accountName
         userInfoDict["screenName"] = screenName
         userInfoDict["twitterId"] = str(twitterId)
@@ -45,9 +46,10 @@ def getTweetsUser(api, username, twitterPip):
         # 插入数据库
         if screenNameList != None and screenName in screenNameList:
             twitterPip.update_userInfo(userInfoDict, screenName)
-        elif screenNameList == None or len(screenNameList) == 0 or (screenNameList != None and screenName not in idList):
+        elif screenNameList == None or len(screenNameList) == 0 or (
+                screenNameList != None and screenName not in idList):
             twitterPip.insert_userInfo(userInfoDict)
-        
+
         # 获取当前账户下的推文
         accountId = twitterPip.get_accountId(userInfo.status.id)
         sinceId = twitterPip.get_sinceId(accountId)
@@ -81,19 +83,21 @@ def getTweetsUser(api, username, twitterPip):
                 tweetInfoDict["favoriteCount"] = favoriteCount
                 tweetInfoDict["tweetTime"] = tweetTime.strftime(
                     "%Y-%m-%d %H:%M:%S")
-                tweetNum = public_tweets.index(tweet)+1
-                print("第%d个文件：" % tweetNum)
+                tweetNum = public_tweets.index(tweet) + 1
+                print("第%d条记录：" % tweetNum)
                 flag = twitterPip.insert_tweetInfo(tweetInfoDict, flag)
         except Exception as e:
             print("错误信息:", e)
         finally:
             endTime = datetime.now()
-            runningTime = endTime-startTime
+            runningTime = endTime - startTime
             # print("花费时间为：%s" % runningTime)
         # print("账户：%s,一共更新: %d 条记录" % (accountName, flag))
-        logger.info("花费时间为：%s账户：%s,一共更新: %d 条记录" % (runningTime, accountName, flag))
+        logger.info(
+            "花费时间为：%s账户：%s,一共更新: %d 条记录" % (runningTime, accountName, flag))
     except Exception as e:
-        logger.warning("%s %s"%(username, str(e)))
+        logger.warning("%s %s" % (username, str(e)))
+
 
 # 获取视频照片
 
@@ -102,9 +106,11 @@ def get_imgvideoUrl(tweet):
     if hasattr(tweet, "extended_entities"):
         extended_entities = tweet.extended_entities
         if "video_info" in extended_entities["media"][0]:
-            videoUrl = extended_entities["media"][0]["video_info"]["variants"][0]["url"]
+            videoUrl = extended_entities["media"][0]["video_info"]["variants"][
+                0]["url"]
             if 'm3u8' in videoUrl:
-                videoUrl = extended_entities["media"][0]["video_info"]["variants"][1]["url"]
+                videoUrl = extended_entities["media"][0]["video_info"][
+                    "variants"][1]["url"]
             videoUrl = downloadVideo(videoUrl)
         else:
             videoUrl = ""
@@ -114,11 +120,13 @@ def get_imgvideoUrl(tweet):
     else:
         return ("", "")
 
+
 # 获取头像路径
 
 
 def getProfileImg(profileImg):
     return downloadHead(profileImg)
+
 
 #获取背景图像
 def getBannerUrl(bannerUrl):
