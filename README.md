@@ -10,9 +10,13 @@ https://apps.twitter.com/
 account表的：accountName description
 tweets表的：description
 
+#修改basePath路径
+"basePath": "E:/ScrapyProject/twitterShow/static"
+
 #AI相关twitter账户
 Ronald_vanLoon, 
 NathanBenaich, j2bryson, alexjc, soumithchintala, adampaulcoates,
 cybercodetwins, jeggers, etzioni, MFordFuture, ageitgey,
 johnchavens, jkardwell, davidwkenny, tessalau, petitegeek, 
 LearnOpenCV, GaryMarcus, chrismessina, elonmusk, DrAndyPardoe
+
