@@ -1,0 +1,25 @@
+2018-07-25 16:39:59,977 - INFO - timedTask.py[:7] - 执行任务开始,时间开始于 2018-07-25 16:39:59.977631
+2018-07-25 16:40:23,156 - WARNING - tweetInfo.py[:99] - OpenAI Failed to send request: HTTPSConnectionPool(host='api.twitter.com', port=443): Max retries exceeded with url: /1.1/users/show.json?id=OpenAI (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x000001602D864550>: Failed to establish a new connection: [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。',))
+2018-07-25 16:41:23,968 - INFO - timedTask.py[:7] - 执行任务开始,时间开始于 2018-07-25 16:41:23.968597
+2018-07-25 16:41:34,866 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.008993账户：OpenAI,一共更新: 3 条记录
+2018-07-25 16:41:43,745 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.005990账户：Google AI,一共更新: 1 条记录
+2018-07-25 16:41:55,421 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.038976账户：NVIDIA AI,一共更新: 11 条记录
+2018-07-25 16:42:07,612 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-25 16:47:03,867 - INFO - timedTask.py[:7] - 执行任务开始,时间开始于 2018-07-25 16:47:03.867386
+2018-07-25 16:47:04,825 - INFO - main.py[:26] - 程序开始运行
+2018-07-25 16:47:17,755 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：OpenAI,一共更新: 0 条记录
+2018-07-25 16:47:28,207 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Google AI,一共更新: 0 条记录
+2018-07-25 16:47:38,728 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：NVIDIA AI,一共更新: 0 条记录
+2018-07-25 16:47:54,529 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Partnership on AI,一共更新: 0 条记录
+2018-07-25 16:48:51,591 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:43.824870账户：Intel AI,一共更新: 38 条记录
+2018-07-25 16:49:01,013 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.002999账户：Andrew Ng,一共更新: 1 条记录
+2018-07-25 16:55:55,506 - INFO - tweetInfo.py[:97] - 花费时间为：0:06:34.636023账户：Tamara McCleary,一共更新: 158 条记录
+2018-07-25 16:56:05,564 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.051956账户：AI,一共更新: 16 条记录
+2018-07-25 16:57:26,615 - INFO - tweetInfo.py[:97] - 花费时间为：0:01:05.025495账户：Bill McCabe/ IOT Recruiter,一共更新: 200 条记录
+2018-07-25 17:02:53,108 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:05.926769账户：Kirk Borne,一共更新: 193 条记录
+2018-07-25 17:03:18,601 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:13.254107账户：Bernard Marr,一共更新: 44 条记录
+2018-07-25 17:03:53,866 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:24.461986账户：David Brin 🛰,一共更新: 34 条记录
+2018-07-25 17:04:06,336 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00账户：Pedro Domingos,一共更新: 0 条记录
+2018-07-25 17:04:20,605 - INFO - tweetInfo.py[:97] - 花费时间为：0:00:00.012975账户：Fei-Fei Li,一共更新: 8 条记录
+2018-07-25 17:06:56,256 - INFO - tweetInfo.py[:97] - 花费时间为：0:02:15.593137账户：Brian Ahier,一共更新: 181 条记录
+2018-07-25 17:12:37,752 - INFO - tweetInfo.py[:97] - 花费时间为：0:05:26.038049账户：Andreas Staub,一共更新: 200 条记录

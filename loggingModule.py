@@ -16,12 +16,12 @@ f_handler.setFormatter(
         "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"
     ))
 
-st_handler = logging.StreamHandler()
-st_handler.setLevel(logging.DEBUG)
-st_handler.setFormatter(
-    logging.Formatter(
-        "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"
-    ))
+# st_handler = logging.StreamHandler()
+# st_handler.setLevel(logging.DEBUG)
+# st_handler.setFormatter(
+#     logging.Formatter(
+#         "%(asctime)s - %(levelname)s - %(filename)s[:%(lineno)d] - %(message)s"
+#     ))
 
 logger.addHandler(f_handler)
-logger.addHandler(st_handler)
+# logger.addHandler(st_handler)

@@ -3,6 +3,7 @@ from initConfig import init
 from saveData import TwitterPip
 from tweetInfo import getTweetsUser
 from datetime import datetime
+from loggingModule import logger
 
 # 主函数
 
@@ -22,9 +23,11 @@ def main():
 
 if __name__ == '__main__':
     starTime = datetime.now()
-    print("程序开始运行")
-    print("---------------")
+    logger.info("程序开始运行")
+    # print("程序开始运行")
+    # print("---------------")
     main()
     endTime = datetime.now()
-    print("---------------")
-    print("程序执行完毕，共耗时%s" % (endTime - starTime))
+    # print("---------------")
+    # print("程序执行完毕，共耗时%s" % (endTime - starTime))
+    logger.info("程序执行完毕，共耗时%s" % (endTime - starTime))

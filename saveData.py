@@ -37,7 +37,7 @@ class TwitterPip(MysqlDB):
                       itemDict["accountTime"], itemDict["profileImage"],
                       itemDict["bannerUrl"]))
             self.conn.commit()
-            print("插入 %s 账户信息成功" % itemDict["screenName"])
+            # print("插入 %s 账户信息成功" % itemDict["screenName"])
         except Exception as e:
             self.conn.rollback()
             logger.info("插入 %s 账户信息失败 %s" % (itemDict["screenName"], str(e)))
@@ -56,7 +56,7 @@ class TwitterPip(MysqlDB):
                       itemDict["favoriteCount"], itemDict["tweetTime"],
                       itemDict["twitterId"]))
             self.conn.commit()
-            print("插入推文信息成功")
+            # print("插入推文信息成功")
             flag += 1
             return flag
         except Exception as e:
@@ -84,7 +84,7 @@ class TwitterPip(MysqlDB):
                       itemDict["accountTime"], itemDict["profileImage"],
                       itemDict["bannerUrl"], itemDict["screenName"]))
             self.conn.commit()
-            print("更新 %s 账户信息成功" % itemDict["screenName"])
+            # print("更新 %s 账户信息成功" % itemDict["screenName"])
         except Exception as e:
             self.conn.rollback()
             logger.info("更新 %s 账户信息失败,%s" % (itemDict["screenName"], str(e)))

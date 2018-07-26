@@ -20,6 +20,7 @@ def timeFun(sched_timedo):
         else:
             if flag == 1:
                 sched_timedo = sched_timedo+datetime.timedelta(hours=3)
+                logger.info(f"sched_timedo change:{sched_timedo}")
                 print(f"sched_timedo change:{sched_timedo}")
                 flag = 0
 

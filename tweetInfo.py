@@ -84,7 +84,7 @@ def getTweetsUser(api, username, twitterPip):
                 tweetInfoDict["tweetTime"] = tweetTime.strftime(
                     "%Y-%m-%d %H:%M:%S")
                 tweetNum = public_tweets.index(tweet) + 1
-                print("第%d条记录：" % tweetNum)
+                # print("第%d条记录：" % tweetNum)
                 flag = twitterPip.insert_tweetInfo(tweetInfoDict, flag)
         except Exception as e:
             print("错误信息:", e)
